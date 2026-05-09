@@ -73,7 +73,7 @@ root/
 
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/VoyagoAdventureApp.git
+   git clone https://github.com/akashray398/VoyagoAdventureApp.git
    ```
 2. **Open in Android Studio:**
    Use the latest version of Android Studio (Koala or later).
